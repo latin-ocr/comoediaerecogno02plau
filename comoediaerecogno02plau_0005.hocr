@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comoediaerecogno02plau_0005.png"; bbox 0 0 1747 2740; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 182 1461 252">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 182 1461 252">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 182 1461 252; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 236 182 793 252; x_wconf 79' lang='lat' dir='ltr'>SCRIPTORUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 850 182 1461 246; x_wconf 85' lang='lat' dir='ltr'>CLASSICORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 287 369 1424 436">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 287 369 1424 436">
+     <span class='ocr_line' id='line_1_2' title="bbox 287 369 1424 436; baseline -0.004 -1"><span class='ocrx_word' id='word_1_3' title='bbox 287 369 861 436; x_wconf 86' lang='lat' dir='ltr'><strong>BIBLIOTHECA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 902 369 1424 432; x_wconf 85' lang='lat' dir='ltr'>OXONIENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 680 1018 1028 1440">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 680 1018 1028 1440">
+     <span class='ocr_line' id='line_1_3' title="bbox 680 1018 1028 1440; baseline 0 1300"><span class='ocrx_word' id='word_1_5' title='bbox 680 1018 1028 1440; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 695 2153 1002 2200">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 695 2153 1002 2200">
+     <span class='ocr_line' id='line_1_4' title="bbox 695 2153 1002 2200; baseline -0.003 0"><span class='ocrx_word' id='word_1_6' title='bbox 695 2153 1002 2200; x_wconf 89' lang='grc' dir='ltr'>ΟΧΟΝΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 274 2247 1433 2369">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 274 2247 1433 2369">
+     <span class='ocr_line' id='line_1_5' title="bbox 274 2247 1433 2288; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 274 2249 302 2287; x_wconf 74' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_8' title='bbox 354 2247 831 2288; x_wconf 71' lang='lat' dir='ltr'>TYPOGRAPHEO</span> <span class='ocrx_word' id='word_1_9' title='bbox 881 2248 1433 2288; x_wconf 88' lang='lat' dir='ltr'><strong>CLARENDONIANO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 465 2333 1237 2369; baseline 0.001 -3"><span class='ocrx_word' id='word_1_10' title='bbox 465 2333 696 2367; x_wconf 91' lang='lat' dir='ltr'>LONDINI</span> <span class='ocrx_word' id='word_1_11' title='bbox 734 2334 802 2368; x_wconf 83' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_12' title='bbox 838 2335 966 2368; x_wconf 89' lang='lat' dir='ltr'>NOVI</span> <span class='ocrx_word' id='word_1_13' title='bbox 1005 2334 1237 2369; x_wconf 75' lang='lat' dir='ltr'><strong>EBORACI</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./comoediaerecogno02plau_0608.png"; bbox 0 0 1747 2740; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 744 292 1081 762">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 744 292 1081 762">
+     <span class='ocr_line' id='line_1_1' title="bbox 858 292 972 315; baseline 0.009 -1"><span class='ocrx_word' id='word_1_1' title='bbox 858 292 918 314; x_wconf 76' lang='lat' dir='ltr'>SET</span> <span class='ocrx_word' id='word_1_2' title='bbox 936 294 972 315; x_wconf 75' lang='lat' dir='ltr'>IN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 778 341 1051 366; baseline 0.015 -4"><span class='ocrx_word' id='word_1_3' title='bbox 778 341 891 364; x_wconf 76' lang='lat' dir='ltr'>GREAT</span> <span class='ocrx_word' id='word_1_4' title='bbox 909 344 1051 366; x_wconf 73' lang='lat' dir='ltr'><strong>BRITAIN</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 850 393 977 415; baseline 0.024 -3"><span class='ocrx_word' id='word_1_5' title='bbox 850 393 892 413; x_wconf 81' lang='grc' dir='ltr'>ΛΤ</span> <span class='ocrx_word' id='word_1_6' title='bbox 909 393 977 415; x_wconf 74' lang='lat' dir='ltr'>THE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 744 439 1081 466; baseline 0.015 -5"><span class='ocrx_word' id='word_1_7' title='bbox 744 439 960 464; x_wconf 77' lang='lat' dir='ltr'><strong>UNIVERSITY</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 978 444 1081 466; x_wconf 79' lang='lat' dir='ltr'>PRESS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 841 491 983 513; baseline 0.007 -1"><span class='ocrx_word' id='word_1_9' title='bbox 841 491 983 513; x_wconf 69' lang='lat' dir='ltr'>OXFORD</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 811 540 1013 563; baseline 0.015 -3"><span class='ocrx_word' id='word_1_10' title='bbox 811 540 1013 563; x_wconf 72' lang='lat' dir='ltr'>REPRINTED</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 792 589 1032 614; baseline 0.017 -4"><span class='ocrx_word' id='word_1_11' title='bbox 792 589 885 611; x_wconf 70' lang='lat' dir='ltr'>FROM</span> <span class='ocrx_word' id='word_1_12' title='bbox 904 591 1032 614; x_wconf 77' lang='lat' dir='ltr'>PLATES</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 891 640 937 661; baseline 0.022 -1"><span class='ocrx_word' id='word_1_13' title='bbox 891 640 937 661; x_wconf 84' lang='lat' dir='ltr'>BY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 775 688 1049 717; baseline 0.015 -9"><span class='ocrx_word' id='word_1_14' title='bbox 775 688 802 716; x_wconf 87' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_15' title='bbox 819 689 891 709; x_wconf 75' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_16' title='bbox 909 690 935 717; x_wconf 94' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_17' title='bbox 954 691 1049 712; x_wconf 73' lang='lat' dir='ltr'>GRAY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 804 738 1012 762; baseline 0.019 -4"><span class='ocrx_word' id='word_1_18' title='bbox 804 738 1012 762; x_wconf 73' lang='lat' dir='ltr'>EDINBURGH</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
